@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![laananihamza's Streak](https://github-readme-streak-stats.herokuapp.com/?user=laananihamza&theme=tokyonight&hide_border=true)
 <!--
 **laananihamza/laananihamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
