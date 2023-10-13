@@ -5,7 +5,7 @@
 ![laananihamza's Streak](https://github-readme-streak-stats.herokuapp.com/?user=laananihamza&theme=tokyonight&hide_border=true)         
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/js-c0b12d.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/js-c0b12d.svg?style=for-the-badge&logo=javascript&logoColor=white)  ![PHP](https://img.shields.io/badge/php-7b40b7.svg?style=for-the-badge&logo=php&logoColor=white)  
 <!--
 **laananihamza/laananihamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
