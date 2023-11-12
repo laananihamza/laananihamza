@@ -2,6 +2,8 @@
  I am Hamza Laanani a *Full stack developer* <br />
  
  Welcome to my GitHub ❤️ <br/>
+
+ I am a gamer also 😊  🎮🕹 <br/>
  
  👇
 
